@@ -43,15 +43,18 @@
 .services{
     background-image: url(assets/backgrounds/s_image.jpg);
     background-repeat: no-repeat;
-    background-position: center center;
+   
     background-size: cover;
     height: 40vh;
-    width: 90em;
-    
+    width: 90%;
+    margin: auto;
     color: white;
     text-align: center;
     align-items: center;
     margin-bottom: 3em;
+}
+.service_text{
+    padding-top: 7em;
 }
 
 .whatwedo {
@@ -93,8 +96,8 @@
     background-image: url(assets/backgrounds/c_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 50vh;
-    width: 70%;
+    height: 60vh;
+    width: 90%;
     margin: auto;
     color: white;
 }
@@ -105,6 +108,14 @@
     display: flex;
     justify-content: center;
     margin-top: 2em;
+   
+
+}
+.social img{
+    transition: 0.3s;
+}
+.social a:hover img{
+    transform: translateY(-10px);
 }
 .footertext{
     text-align: center;
