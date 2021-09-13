@@ -4,7 +4,7 @@
 #### By **_Ian Njenga_**
 -------------------------
 ## Description
-The website is a landing page which has sevral features. It has an about section where it tells who we are then, _what we do_ section which on clicking displays text. Our _portfolio_ has been displayed there and on hovering you get the name of the project done. Finally a contact us section which tracks the messages sent us. 
+The website is a landing page which has several features. It has an about section where it tells who we are then, _what we do_ section which on clicking displays text. Our _portfolio_ has been displayed there and on hovering you get the name of the project done. Finally a contact us section which tracks the messages sent us. 
 ## Setup/Installation Requirements
 There is no special installation needed. The website runs on all browsers. You can run it on chrome browser.
 
