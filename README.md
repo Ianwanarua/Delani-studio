@@ -1,1 +1,1 @@
-![delani studio!](assets/DelaniStudio.jpg)
+![delani studio!](assets/Delani Studio.jpg)
