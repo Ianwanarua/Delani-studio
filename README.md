@@ -18,7 +18,7 @@ I used following technologies;
 - Jquery
 ## Support and contact details
 You can reach me through ian.wanarua@student.moringaschool.com
-### [Live demo] ()
+### [Live demo](https://ianwanarua.github.io/Delani-studio/)
 ### License
 This project is under this [MIT](LICENSE) <br>
 Copyright (c) 2021 **Delani_studio**
