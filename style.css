@@ -133,9 +133,6 @@
 .f_cont{
     padding-top: 5em;
 }
-.f_cont h3{
-    padding-bottom: 1em;
-}
 .conth{
     text-align: center;
 }
@@ -187,3 +184,8 @@ input[type=email],
     color: white;
     font-size: 20px;
 }
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    body {
+      background: #bada55;
+    }
+  }
