@@ -1,5 +1,5 @@
  # DELANI STUDIO
-![delani studio!](assets/Delani_studio.jpg)
+![delani studio!](assets/Delani_Studio.jpg)
 #### This is a Portfolio landing-page  website.
 #### By **_Ian Njenga_**
 -------------------------
@@ -10,7 +10,7 @@ There is no special installation needed. The website runs on all browsers. You c
 
 
 ## Technologies Used
-I used following technologies;
+I used the following technologies;
 - Html
 - Css
 - Bootstrap
