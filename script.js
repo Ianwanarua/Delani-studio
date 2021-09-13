@@ -83,6 +83,7 @@ $('#port8').hover(function () {
   $(this).css("opacity", "1");
   $('.pf8').addClass('text');
 });
+
 //validating user form 
 document.getElementById('sub_btn').addEventListener('click', function () {
   var userName = $("#intext").val();
