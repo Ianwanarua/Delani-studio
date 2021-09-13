@@ -8,7 +8,7 @@ The website is a landing page which has sevral features. It has an about section
 ## Setup/Installation Requirements
 There is no special installation needed. The website runs on all browsers. You can run it on chrome browser.
 
-------------
+
 ## Technologies Used
 I used following technologies;
 - Html
